@@ -1,3 +1,15 @@
 # Curso de Python
 
-Me he quedado en el minuto **1:02:08** del curso.
+Este repositorio contiene ejemplos y ejercicios del curso de Python. A continuación se describen los archivos incluidos:
+
+## Archivos
+
+- **00_hola.py**: Introducción a Python con un programa básico de "Hola Mundo" y ejemplos de tipos de datos.
+- **01_variables.py**: Ejemplos de uso de variables, concatenación de cadenas, funciones del sistema y manejo de tipos de datos en Python.
+- **02_operadores.py**: Ejemplos de operadores aritméticos, lógicos y de comparación en Python.
+
+## Progreso
+
+- Lección de introducción
+- Lección de variables
+- Lección de operadores
